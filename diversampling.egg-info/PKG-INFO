@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: diversampling
+Version: 0.1.0
+Summary: An unsupervised methodology to implement a diversified under-sampling process to deal with the extremely imbalanced binary classification problem
+Home-page: UNKNOWN
+Author: ReidZ
+Author-email: reid.zhuang@icloud.com
+License: Apache License 2.0
+Platform: UNKNOWN
+Requires: numpy
+Requires: sklearn
+Requires: pandas
+Requires: joblib
+Requires: imblearn
+License-File: LICENSE
+License-File: NOTICE
+
+UNKNOWN
+

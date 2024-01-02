@@ -1,0 +1,8 @@
+LICENSE
+NOTICE
+README.md
+setup.py
+diversampling.egg-info/PKG-INFO
+diversampling.egg-info/SOURCES.txt
+diversampling.egg-info/dependency_links.txt
+diversampling.egg-info/top_level.txt
