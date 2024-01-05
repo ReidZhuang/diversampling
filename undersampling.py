@@ -1,43 +1,4 @@
-# Copyright 2023 Reid Zhuang
-
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-
-#     http://www.apache.org/licenses/LICENSE-2.0
-
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
-
-# This product includes software developed by:
-# - numpy
-#   Version 1.26.2
-#   Licensed under the BSD 3-Clause License
-#   [https://numpy.org/]
-
-# - pandas
-#   Version 1.4.4
-#   Licensed under the BSD 3-Clause License
-#   [https://pandas.pydata.org/]
-
-# - scikit-learn
-#   Version 1.3.2
-#   Licensed under the BSD 3-Clause License
-#   [https://www.scikitlearn.com.cn/]
-
-# - joblib
-#   Version 1.3.2
-#   Licensed under the BSD 3-Clause License
-#   [https://joblib.readthedocs.io/en/latest/]
-
-# - imbalanced-learn
-#   Version 0.11.0
-#   Licensed under the MIT License
-#   [https://imbalanced-learn.org/stable/]
-
+# license = Apache License, Version 2.0
 
 class Sample_data(object):
     def __init__(self, data, decreasing_ratio_threshold=0.01):
